@@ -1,6 +1,11 @@
-# django-intro
+django-intro
 ===============
 I made this repository for exercise purpose
+
+Requirements
+---------------
+Python 3.5.2
+Django 1.10
 
 Getting Started
 ---------------
