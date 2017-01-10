@@ -1,7 +1,6 @@
 # django-intro
 ===============
 I made this repository for exercise purpose
-The solution to https://docs.djangoproject.com/en/dev/intro/tutorial01/
 
 Getting Started
 ---------------
